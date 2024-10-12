@@ -22,5 +22,5 @@ The **System Health Monitor** is a Python application designed to provide users 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/system-health-monitor.git
-   cd system-health-monitor
+   git clone https://github.com/glitchidea/system-health-monitor.git
+   cd System-Health-Monitor
